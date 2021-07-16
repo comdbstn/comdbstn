@@ -8,6 +8,6 @@ https://www.instagram.com/comdbstn/?hl=ko
 
 Ability
 ---
-* Web.FrontEnd
-HTML, CSS, JavaScript, Bootstrap
+* Web.FrontEnd   
+HTML, CSS, JavaScript, Bootstrap, TypeScript   
 * Unity
